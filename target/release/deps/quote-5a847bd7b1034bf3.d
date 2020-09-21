@@ -1,0 +1,13 @@
+/Users/andre/Devel/rust_project/rust_from_python/target/release/deps/quote-5a847bd7b1034bf3.rmeta: /Users/andre/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/lib.rs /Users/andre/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/ext.rs /Users/andre/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/format.rs /Users/andre/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/ident_fragment.rs /Users/andre/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/to_tokens.rs /Users/andre/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/runtime.rs /Users/andre/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/spanned.rs
+
+/Users/andre/Devel/rust_project/rust_from_python/target/release/deps/libquote-5a847bd7b1034bf3.rlib: /Users/andre/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/lib.rs /Users/andre/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/ext.rs /Users/andre/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/format.rs /Users/andre/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/ident_fragment.rs /Users/andre/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/to_tokens.rs /Users/andre/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/runtime.rs /Users/andre/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/spanned.rs
+
+/Users/andre/Devel/rust_project/rust_from_python/target/release/deps/quote-5a847bd7b1034bf3.d: /Users/andre/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/lib.rs /Users/andre/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/ext.rs /Users/andre/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/format.rs /Users/andre/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/ident_fragment.rs /Users/andre/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/to_tokens.rs /Users/andre/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/runtime.rs /Users/andre/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/spanned.rs
+
+/Users/andre/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/lib.rs:
+/Users/andre/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/ext.rs:
+/Users/andre/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/format.rs:
+/Users/andre/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/ident_fragment.rs:
+/Users/andre/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/to_tokens.rs:
+/Users/andre/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/runtime.rs:
+/Users/andre/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/spanned.rs:

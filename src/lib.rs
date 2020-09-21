@@ -1,0 +1,23 @@
+use pyo3::prelude::*;
+use pyo3::wrap_pyfunction;
+
+/// Formats the sum of two numbers as string.
+#[pyfunction]
+fn sum_as_string(a: usize, b: usize) -> String {
+    (a + b).to_string()
+}
+
+/*/// A Python module implemented in Rust.*/
+//#[pymodule]
+//fn string_sum(_py: Python, m: &PyModule) -> PyResult<()> {
+//m.add_function(wrap_pyfunction!(sum_as_string, m)?)?;
+
+//Ok(())
+/*}*/
+
+/// A Python module implemented in Rust.
+#[pymodule]
+fn string_sum(_py: Python, m: &PyModule) -> PyResult<()> {
+    m.add_wrapped(wrap_pyfunction!(sum_as_string))?;
+    Ok(())
+}

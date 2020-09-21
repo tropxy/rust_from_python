@@ -1,0 +1,13 @@
+/Users/andre/Devel/rust_project/rust_from_python/target/debug/deps/libc-d1075ac2d94de65c.rmeta: /Users/andre/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.77/src/lib.rs /Users/andre/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.77/src/macros.rs /Users/andre/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.77/src/fixed_width_ints.rs /Users/andre/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.77/src/unix/mod.rs /Users/andre/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.77/src/unix/bsd/mod.rs /Users/andre/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.77/src/unix/bsd/apple/mod.rs /Users/andre/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.77/src/unix/bsd/apple/b64/mod.rs /Users/andre/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.77/src/unix/bsd/apple/b64/align.rs /Users/andre/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.77/src/unix/align.rs
+
+/Users/andre/Devel/rust_project/rust_from_python/target/debug/deps/libc-d1075ac2d94de65c.d: /Users/andre/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.77/src/lib.rs /Users/andre/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.77/src/macros.rs /Users/andre/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.77/src/fixed_width_ints.rs /Users/andre/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.77/src/unix/mod.rs /Users/andre/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.77/src/unix/bsd/mod.rs /Users/andre/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.77/src/unix/bsd/apple/mod.rs /Users/andre/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.77/src/unix/bsd/apple/b64/mod.rs /Users/andre/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.77/src/unix/bsd/apple/b64/align.rs /Users/andre/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.77/src/unix/align.rs
+
+/Users/andre/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.77/src/lib.rs:
+/Users/andre/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.77/src/macros.rs:
+/Users/andre/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.77/src/fixed_width_ints.rs:
+/Users/andre/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.77/src/unix/mod.rs:
+/Users/andre/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.77/src/unix/bsd/mod.rs:
+/Users/andre/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.77/src/unix/bsd/apple/mod.rs:
+/Users/andre/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.77/src/unix/bsd/apple/b64/mod.rs:
+/Users/andre/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.77/src/unix/bsd/apple/b64/align.rs:
+/Users/andre/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.77/src/unix/align.rs:
